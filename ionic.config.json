@@ -1,0 +1,8 @@
+{
+  "name": "skatemap",
+  "app_id": "5b742fd2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
